@@ -39,6 +39,7 @@ Test Sequence: A sequence of inputs and expected outputs was defined to test sta
 Simulation and Verification
 Compile the Design: The Verilog code and the testbench were compiled using ModelSim.
 Run the Simulation: The testbench was executed in ModelSim to simulate the FSM.
+
 Verify Outputs: The simulation results and waveforms were checked to ensure the FSM transitions between states correctly.
 Outcomes
 The FSM was successfully designed and implemented in Verilog.
