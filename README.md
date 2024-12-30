@@ -6,6 +6,7 @@ domain: VLSI
 
 start date:dec5
 
+project name: FSM
 
 
 
