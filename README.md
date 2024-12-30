@@ -1,3 +1,10 @@
+Name:VENKATA POORNA CHANDRA AVVARI
+intern id: 
+domain: VLSI
+start date:dec5
+
+
+
 # CODTECH-TASK1
 Project Overview: Designing and Testing a Finite State Machine (FSM) in Verilog using ModelSim
 Objective
