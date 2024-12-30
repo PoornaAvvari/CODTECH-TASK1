@@ -1,5 +1,9 @@
 Name:VENKATA POORNA CHANDRA AVVARI
 
+
+Company: codetech solutions 
+
+
 intern id: CT08DS10032
 
 domain: VLSI
